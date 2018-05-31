@@ -1,0 +1,74 @@
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.exe.config
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.exe
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.pdb
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.dll
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.xml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\MainWindow.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\App.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity_MarkupCompile.cache
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity_MarkupCompile.lref
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\MainWindow.baml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.g.resources
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.Properties.Resources.resources
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.GenerateResource.cache
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.CoreCompileInputs.cache
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.CopyComplete
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.exe
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.pdb
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\ru\EntityFramework.resources.dll
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\bin\Debug\System.Data.SqlServerCe.dll
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\MainProgram.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\MainProgram.baml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csprojAssemblyReference.cache
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\Admin.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\ChangeLevel.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\ChangeRole.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\ChangeUser.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\RegisterUsers.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\SignUp.g.cs
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\Admin.baml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\ChangeLevel.baml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\ChangeRole.baml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\ChangeUser.baml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\RegisterUsers.baml
+D:\Информационая Безопастность\Админ-Пользователь\InformationSecurity\InformationSecurity\obj\Debug\SignUp.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csprojAssemblyReference.cache
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\Admin.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\ChangeLevel.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\ChangeRole.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\ChangeUser.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\MainProgram.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\RegisterUsers.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\App.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity_MarkupCompile.cache
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity_MarkupCompile.lref
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.exe
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.pdb
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\SignUp.g.cs
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\Admin.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\ChangeLevel.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\ChangeRole.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\ChangeUser.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\MainProgram.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\RegisterUsers.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\SignUp.baml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.g.resources
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.exe.config
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.exe
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.pdb
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\System.Data.SqlServerCe.dll
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\ru\EntityFramework.resources.dll
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.Properties.Resources.resources
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.GenerateResource.cache
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\C#\Just-For-Example\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.CopyComplete

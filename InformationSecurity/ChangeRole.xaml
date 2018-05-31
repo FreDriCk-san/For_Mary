@@ -1,0 +1,41 @@
+﻿<Window x:Class="InformationSecurity.ChangeRole"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InformationSecurity"
+        mc:Ignorable="d"
+        Title="ChangeRole" Height="541.425" Width="569.657">
+    <Grid Margin="0,0,2,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="resources/Bitmap2.bmp"/>
+        </Grid.Background>
+        <ListView x:Name="listView1" HorizontalAlignment="Left" Height="176" Margin="10,10,0,0" VerticalAlignment="Top" Width="538" Loaded="listView1_Loaded" PreviewMouseDoubleClick="listView1_PreviewMouseDoubleClick" Background="#FFA79AD4" Foreground="#FF383838">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="label1" Content="Имя" HorizontalAlignment="Left" Height="31" Margin="83,353,0,0" VerticalAlignment="Top" Width="114" FontWeight="Bold" FontFamily="Franklin Gothic Medium" Background="#FFBFB8DA" Foreground="#FF515151" FontSize="14"/>
+        <Label x:Name="label2" Content="Длительность &#xD;&#xA;нахождения &#xD;&#xA;в системе" HorizontalAlignment="Left" Height="56" Margin="222,328,0,0" VerticalAlignment="Top" Width="129" FontWeight="Bold" FontFamily="Franklin Gothic Medium" Foreground="#FF555555" Background="#FFBFB8DA" FontSize="14"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="30" Margin="83,384,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="button1" Content="Создать" HorizontalAlignment="Left" Height="36" Margin="97,441,0,0" VerticalAlignment="Top" Width="102" Click="button1_Click" Foreground="#FFD6D6D6" Background="#FF665D85" FontFamily="Franklin Gothic Medium" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="30" Margin="222,384,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="129" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Text="00:00:00" />
+        <Label x:Name="label3" Content="Приоритетность" HorizontalAlignment="Left" Height="31" Margin="368,353,0,0" VerticalAlignment="Top" Width="114" FontWeight="Bold" FontFamily="Franklin Gothic Medium" Background="#FFBFB8DA" Foreground="#FF4D4D4D" FontSize="14"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="30" Margin="368,384,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Text="0"/>
+        <Button x:Name="button2" Content="Изменить" HorizontalAlignment="Left" Height="53" Margin="236,433,0,0" VerticalAlignment="Top" Width="100" Click="button2_Click" Foreground="#FFE2E2E2" Background="#FF665D85" FontSize="20" FontFamily="Franklin Gothic Medium" />
+        <Button x:Name="button3" Content="Удалить" HorizontalAlignment="Left" Height="36" Margin="368,441,0,0" VerticalAlignment="Top" Width="102" Click="button3_Click" Background="#FF665D85" Foreground="#FFD6D6D6" FontSize="20" FontFamily="Franklin Gothic Medium" />
+        <Grid HorizontalAlignment="Left" Height="105" Margin="83,208,0,0" VerticalAlignment="Top" Width="399" Background="#FFBFB8DA" OpacityMask="Black">
+            <Label Content="Дни недели" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="399" Foreground="#FF5B5B5B" HorizontalContentAlignment="Center" FontFamily="Franklin Gothic Medium" FontSize="14"/>
+            <CheckBox x:Name="checkbox1" Content="Sunday" HorizontalAlignment="Left" Margin="10,32,0,0" VerticalAlignment="Top" Background="#FF625599" FontFamily="Franklin Gothic Medium" Foreground="#FF4F4F4F"/>
+            <CheckBox x:Name="checkbox2" Content="Monday" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Background="#FF625599" FontFamily="Franklin Gothic Medium" Foreground="#FF4F4F4F"/>
+            <CheckBox x:Name="checkbox3" Content="Tuesday" HorizontalAlignment="Left" Margin="151,32,0,0" VerticalAlignment="Top" Background="#FF625599" FontFamily="Franklin Gothic Medium" Foreground="#FF4F4F4F"/>
+            <CheckBox x:Name="checkbox4" Content="Wednesday" HorizontalAlignment="Left" Margin="151,52,0,0" VerticalAlignment="Top" Background="#FF625599" FontFamily="Franklin Gothic Medium" Foreground="#FF4F4F4F"/>
+            <CheckBox x:Name="checkbox5" Content="Thursday" HorizontalAlignment="Left" Margin="151,72,0,0" VerticalAlignment="Top" Background="#FF625599" FontFamily="Franklin Gothic Medium" Foreground="#FF4F4F4F"/>
+            <CheckBox x:Name="checkbox6" Content="Friday" HorizontalAlignment="Left" Margin="300,32,0,0" VerticalAlignment="Top" Background="#FF625599" FontFamily="Franklin Gothic Medium" Foreground="#FF4F4F4F"/>
+            <CheckBox x:Name="checkbox7" Content="Saturday" HorizontalAlignment="Left" Margin="300,52,0,0" VerticalAlignment="Top" Background="#FF625599" FontFamily="Franklin Gothic Medium" Foreground="#FF4F4F4F"/>
+        </Grid>
+
+    </Grid>
+</Window>

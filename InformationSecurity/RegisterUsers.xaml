@@ -1,0 +1,31 @@
+﻿<Window x:Class="InformationSecurity.RegisterUsers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InformationSecurity"
+        mc:Ignorable="d"
+        Title="RegisterUsers" Height="480.147" Width="576.716">
+    <Window.Background>
+        <ImageBrush ImageSource="resources/Bitmap2.bmp"/>
+    </Window.Background>
+    <Grid Margin="0,0,2,-1">
+        <ListView x:Name="listView1" HorizontalAlignment="Left" Height="221" Margin="10,10,0,0" VerticalAlignment="Top" Width="546" Loaded="listView1_Loaded" PreviewMouseDoubleClick="listView1_PreviewMouseDoubleClick" Background="#FFA79AD4" Foreground="#FF515151">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label x:Name="label1" Content="Логин" HorizontalAlignment="Left" Height="28" Margin="19,270,0,0" VerticalAlignment="Top" Width="109" FontWeight="Bold" FontSize="16" Foreground="#FF4D4D4D" Background="#FFBFB8DA" FontFamily="Franklin Gothic Medium"/>
+        <Label x:Name="label2" Content="Пароль" HorizontalAlignment="Left" Height="28" Margin="155,270,0,0" VerticalAlignment="Top" Width="109" FontWeight="Bold" FontSize="16" Foreground="#FF4D4D4D" Background="#FFBEB7D9" FontFamily="Franklin Gothic Medium"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="25" Margin="19,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <PasswordBox x:Name="passBox1" HorizontalAlignment="Left" Height="25" Margin="155,298,0,0" VerticalAlignment="Top" Width="109" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="comboBox1" HorizontalAlignment="Left" Height="24" Margin="295,298,0,0" VerticalAlignment="Top" Width="109" Loaded="comboBox1_Loaded"/>
+        <ComboBox x:Name="comboBox2" HorizontalAlignment="Left" Height="24" Margin="434,298,0,0" VerticalAlignment="Top" Width="109" Loaded="comboBox2_Loaded"/>
+        <Button x:Name="button1" Content="Зарегистрировать" HorizontalAlignment="Left" Height="32" Margin="225,356,0,0" VerticalAlignment="Top" Width="110" Click="button1_Click" RenderTransformOrigin="0.502,0.431" Background="#FF665D85" Foreground="#FFE0E0E0" FontFamily="Franklin Gothic Medium"/>
+        <Label x:Name="label1_Copy" Content="Уровень" HorizontalAlignment="Left" Height="28" Margin="295,270,0,0" VerticalAlignment="Top" Width="109" FontWeight="Bold" FontSize="16" Foreground="#FF4D4D4D" Background="#FFBFB8DA" FontFamily="Franklin Gothic Medium"/>
+        <Label x:Name="label2_Copy" Content="Роль" HorizontalAlignment="Left" Height="28" Margin="434,270,0,0" VerticalAlignment="Top" Width="109" FontWeight="Bold" FontSize="16" Foreground="#FF4D4D4D" Background="#FFBEB7D9" FontFamily="Franklin Gothic Medium"/>
+
+    </Grid>
+</Window>
