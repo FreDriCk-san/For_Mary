@@ -64,7 +64,7 @@ namespace InformationSecurity
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            if (Methods.Admin.Registration(textBox1.Text, passBox1.Password, comboBox1.SelectedItem.ToString(), comboBox2.SelectedItem.ToString()))
+            if (Methods.Admin.Registration(textBox1.Text, passBox1.Password, comboBox2.SelectedItem.ToString(), comboBox1.SelectedItem.ToString()))
             {
                 MessageBox.Show("User " + textBox1.Text + " was successfully added!");
                 listUpdate();

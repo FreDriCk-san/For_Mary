@@ -60,32 +60,5 @@ namespace InformationSecurity.Methods
             return false;
         }
 
-        //public static bool Authorization(string login, string password)
-        //{
-
-        //    using (var db = new Context.ContextDB())
-        //    {
-        //        if (db.Subjects.Any(s => (s.Login == login) && (s.Password == password)))
-        //        {
-        //            return true;
-        //        }
-        //    }
-
-        //    return false;
-        //}
-
-
-        //public static async Task<Models.Subject> Auth(string login, string password)
-        //{
-        //    Models.Subject user = null;
-
-        //    using (var db = new Context.ContextDB())
-        //    {
-        //        user = await (db.Subjects.Where(s => (s.Login == login) && (s.Password == password)).FirstOrDefaultAsync<Models.Subject>());
-        //    }
-
-        //    return user;
-        //}
-
     }
 }
